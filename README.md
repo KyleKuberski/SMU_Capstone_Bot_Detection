@@ -1,7 +1,7 @@
-# SMU_Capstone_Bot_Detection
+# SMU_Capstone_Bot_Detection_Code
 Various ML Methods for Detecting Bots (SMU Capstone Project)
 
-This code is a work in progress for my Capstone team including: Jason Yoon and Xavier Mojica .
+This code is a work in progress for our SMU Capstone team including Kyle Kuberski, Jason Yoon and Xavier Mojica .
 
 Our project aims to use various machine learning (among other methods) to predict whether or not specified users, datascrapes, textual substance, etc... are organically (human) derived or inorganic (bot) conclusively.
 
